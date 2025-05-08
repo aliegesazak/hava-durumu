@@ -42,6 +42,7 @@ Kullanıcıdan yer bilgisi alır, anlık hava durumu verilerini wttr.in API'si �
 2. `index.html` dosyasını bir tarayıcıda aç.
 3. Bir yer ismi gir ve "Göster" butonuna tıkla.
 4. Anlık hava durumu bilgisi ekrana gelsin!
+5. Bunları yapmadan kişisel websitemden test edebilirsin [Hava Durumu](https://aliegesazak.com/hava-durumu)
 
 ---
 
