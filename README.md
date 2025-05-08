@@ -1,7 +1,7 @@
 # 🌦️ Hava Durumu Web Uygulaması
 
 **Basit ve şık bir hava durumu uygulaması!**
-Kullanıcıdan şehir bilgisi alır, anlık hava durumu verilerini wttr.in API'si üzerinden getirir ve görsel olarak sunar. Tamamen HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
+Kullanıcıdan yer bilgisi alır, anlık hava durumu verilerini wttr.in API'si üzerinden getirir ve görsel olarak sunar. Tamamen HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 
 ---
 
@@ -17,7 +17,7 @@ Kullanıcıdan şehir bilgisi alır, anlık hava durumu verilerini wttr.in API's
 
 ## 🚀 Özellikler
 
-- 🌍 Şehir ismi girerek anlık hava durumu öğrenme
+- 🌍 Yer ismi girerek anlık hava durumu öğrenme
 - 🌀 Yükleniyor animasyonu (spinner) ile şık kullanıcı deneyimi
 - 🎨 Karanlık tema uyumlu tasarım
 - 🔥 Sıcaklık, hissedilen sıcaklık, nem ve rüzgar bilgisi
@@ -40,7 +40,7 @@ Kullanıcıdan şehir bilgisi alır, anlık hava durumu verilerini wttr.in API's
  `git clone https://github.com/aliegesazak/hava-durumu.git`
 
 2. `index.html` dosyasını bir tarayıcıda aç.
-3. Bir şehir ismi gir ve "Göster" butonuna tıkla.
+3. Bir yer ismi gir ve "Göster" butonuna tıkla.
 4. Anlık hava durumu bilgisi ekrana gelsin!
 
 ---
